@@ -79,3 +79,5 @@ Estrutura do Repositório
       Conclusão
 
 Este projeto demonstrou como o Git pode facilitar o desenvolvimento mesmo em projetos individuais, promovendo organização e boas práticas. Foi uma oportunidade de aprender sobre controle de versão, branches e a importância da documentação.
+
+
